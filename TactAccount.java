@@ -20,7 +20,7 @@ public class TactAccount {
 
 	AndroidDriver driver;
 
-	@Before
+	@BeforeCLASS
 	public void capb() throws IOException, IOException {
 
 		// Importing the desired capabilities using Object Repository
